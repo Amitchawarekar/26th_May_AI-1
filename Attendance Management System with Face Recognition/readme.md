@@ -36,17 +36,25 @@ Mysql Database
   ![image](https://user-images.githubusercontent.com/54398300/129922030-e1431bf2-3036-4064-9071-2b4eb8be99c8.png)
 
 
+  
   2) Student Details Screen
+  
   ![image](https://user-images.githubusercontent.com/54398300/129922149-b534df12-bf31-49fe-9322-0c12106971e1.png)
 
+  
   3)Training Data Screen
+  
   ![image](https://user-images.githubusercontent.com/54398300/129922243-ac6deca8-8ed9-4a40-9b8c-9bdc41e6df2e.png)
 
+  
   4)Face Recognizer/Attendance Mark Attendannce Screen
+  
   ![image](https://user-images.githubusercontent.com/54398300/129922427-9b3f8203-1ed0-448e-bb47-6546ba7eea5c.png)
 
   
+  
   5)Attendance Report Screen
+  
   ![image](https://user-images.githubusercontent.com/54398300/129920316-e0b22c30-bc89-4b7c-b322-cbd55fe09074.png)
   
   
