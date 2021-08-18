@@ -4,8 +4,8 @@ This is the project which marks Attendance of Students by recognizing its face a
 It is very useful project for any small institute which help them to mark their students attendance faster.
   
 
-Face Recognition Algorithm used:-
- <h5> LBPH (Local Binary Pattern Histogram) </h5>
+<h2>Face Recognition Algorithm used:- </h2>
+ LBPH (Local Binary Pattern Histogram) 
 
 CascadeClassifier used:-
 <h5>"haarcascade_frontalface_default.xml" </h5>
